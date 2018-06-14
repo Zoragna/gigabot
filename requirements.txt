@@ -23,7 +23,7 @@ html5lib==0.9999999
 #imgpy==1.1.0
 Markdown==2.6.11
 #matplotlib==2.1.2
-menuinst==1.4.10
+#menuinst==1.4.10
 multidict==4.2.0
 #numpy==1.14.1
 oauthlib==2.1.0
