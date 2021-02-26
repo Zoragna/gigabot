@@ -1,5 +1,5 @@
 absl-py==0.1.11
-aiohttp==1.0.5
+aiohttp==3.7.4
 APScheduler==3.5.1
 asn1crypto==0.23.0
 astor==0.6.2
