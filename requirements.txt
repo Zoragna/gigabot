@@ -31,7 +31,7 @@ oauthlib==2.1.0
 #Pillow==5.1.0
 #pipenv==2018.5.18
 #pipreqs==0.4.9
-protobuf==3.5.2.post1
+protobuf==3.18.3
 pycosat==0.6.3
 pycparser==2.18
 pyOpenSSL==17.5.0
